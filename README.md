@@ -18,6 +18,8 @@ ttt
 console.log(1)
 </script>
 
+<img src='http://svg.tutorial.aptico.de/grafik_svg/dummy3.svg' />
+
 
 svg? 
 <svg width="500" height="350">
