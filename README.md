@@ -18,7 +18,7 @@ ttt
 console.log(1)
 </script>
 
-<a href='google.com'><img src='http://svg.tutorial.aptico.de/grafik_svg/dummy3.svg' /></a>
+<a href='https://google.com'><img src='http://svg.tutorial.aptico.de/grafik_svg/dummy3.svg' /></a>
 
 
 svg? 
